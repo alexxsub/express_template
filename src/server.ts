@@ -30,5 +30,6 @@ app.listen()
       process.exit()
     }, 0)
   })
+//windows shell command to watch ports and kill task
 // netstat -aon | findstr 4002
 // Taskkill /F /PID 3737
