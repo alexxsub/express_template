@@ -1,7 +1,7 @@
 {
-  "name": "phone-vue3-quasar2-apollo4",
+  "name": "express_template",
   "version": "1.0.0",
-  "description": "Fullstack app with vue3/quasar2  and Apollo/GraphQL/MongoDB/NodeJS",
+  "description": "Template for nodejs express backend",
   "main": "index.js",
   "scripts": {
     "start": "npm run build && cross-env NODE_ENV=production node dist/server.js",
