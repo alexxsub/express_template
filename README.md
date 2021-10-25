@@ -5,7 +5,7 @@
 ## copy local src of app
 
 ```bash
-git clone https://github.com/alexxsub/phone-vue3-quasar2-apollo4.git
+git clone https://github.com/alexxsub/express_template.git
 ```
 
 ## Install MongoDB
@@ -15,7 +15,7 @@ see manual (https://docs.mongodb.com/manual/installation/)
 ## Install the dependencies
 
 ```bash
-cd phone-vue3-quasar2-apollo4
+cd express_template
 npm i
 ```
 
